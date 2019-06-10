@@ -43,3 +43,11 @@ There are 5 classes of ships to be detected which are as follows:
 
 - [Public LB](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/lb) : **0.98599** & **8th out of 2083 participants**
 - [Private LB](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/pvt_lb) : **0.98567** & **5th out of 2083 participants**
+
+## Steps to Reproduce 
+
+   * Extract `train.zip` in `data` folder and remove `_MACOSX` and `train.zip` file.
+   * Run the notebooks `Final_ResNet50`, `Final_ResNeXt50` and `Final_SeResNeXt50`.
+   * Run the `Final_Blending` notebook on the generated outputs from the three notebooks.
+   
+Also predicted probabilities of the three models are provided in `PredictedProbabilities` folder and the two submission files are provided in `FinalSubmission` folder
