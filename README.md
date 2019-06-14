@@ -1,6 +1,6 @@
 # AnalyticsVidhya_GameOfDeepLearning
 
-This repository contains my solution for the Computer Vision Contest [Game of Deep Learning](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/) organised by Analytics Vidhya.
+This repository contains **5th place** solution for the Computer Vision Hackathon [Game of Deep Learning](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/) organised by Analytics Vidhya.
 
 ## Problem Statement
 
