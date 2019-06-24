@@ -1,6 +1,6 @@
 # AnalyticsVidhya_GameOfDeepLearning
 
-This repository contains **5th place** solution for the Computer Vision Hackathon [Game of Deep Learning](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/) organised by Analytics Vidhya.
+This repository contains **3rd place** solution for the Computer Vision Hackathon [Game of Deep Learning](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/) organised by Analytics Vidhya.
 
 ## Problem Statement
 
@@ -41,8 +41,8 @@ There are 5 classes of ships to be detected which are as follows:
 
 ## LeaderBoard 
 
-- [Public LB](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/lb) : **0.98599** & **8th out of 2083 participants**
-- [Private LB](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/pvt_lb) : **0.98567** & **5th out of 2083 participants**
+- [Public LB](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/lb) : **0.98599** & **6th out of 2083 participants**
+- [Private LB](https://datahack.analyticsvidhya.com/contest/game-of-deep-learning/pvt_lb) : **0.98567** & **3rd out of 2083 participants**
 
 ## Setting up environment
 ```
